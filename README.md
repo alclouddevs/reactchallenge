@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Jobsity/ReactChallenge/main/src/assets/jobsity_logo_small.png"/>
-</div>
+
 
 ## Description
 
@@ -13,12 +11,12 @@ The goal of this exercise is to create a demo calendar application using React.
 
 You should start by rendering a single month view of a calendar for the current month, along the lines of the illustration below:
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Jobsity/ReactChallenge/main/src/assets/CalendarSample.png"/>
+    <img src="https://founderstory.s3.amazonaws.com/assetsunicorndev/CalendarSample.png)"/>
 </div>
 
 ## Mandatory features
  - Ability to add "*reminders*" (max. 30 characters) for a day and time specified by the user. Also, include a city.
- - Ability to edit reminders - including changing text, city, day and time.
+ - Ability to edit reminders - including changing text, city, day and time.§
  - Add a weather service call from [MetaWeather](https://www.metaweather.com/), [AccuWeather](https://developer.accuweather.com/accuweather-forecast-api/apis/get/forecasts/v1/daily/5day/%7BlocationKey%7D) or [VisualCrossing](https://www.visualcrossing.com/weather/weather-data-services#/login) and get the weather forecast (e.g. Rain) for the date of the calendar reminder based on the city.
 
 ## Bonus (Optional)
